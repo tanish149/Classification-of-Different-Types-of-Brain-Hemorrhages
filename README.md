@@ -11,4 +11,4 @@ Hemorrhage Types Classified:
   Intraparenchymal Hemorrhage (IPH)
   Intraventricular Hemorrhage (IVH)
 
-Dataset used : a subset of the (RSNA Intracranial Hemorrhage Detection Dataset(2019))[https://www.kaggle.com/datasets/jhoward/rsna-hemorrhage-jpg]
+Dataset used : a subset of the [RSNA Intracranial Hemorrhage Detection Dataset(2019)](https://www.kaggle.com/datasets/jhoward/rsna-hemorrhage-jpg)
